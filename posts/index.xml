@@ -37,5 +37,14 @@
       <description>A brief guide to setup my website</description>
     </item>
     
+    <item>
+      <title>Post 2</title>
+      <link>https://ghaderinezhad.github.io/posts/post3/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghaderinezhad.github.io/posts/post3/</guid>
+      <description>A brief guide to setup my website</description>
+    </item>
+    
   </channel>
 </rss>
