@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello-world on Fatemeh Ghaderinezhad</title>
+    <link>https://ghaderinezhad.github.io/tags/hello-world/</link>
+    <description>Recent content in hello-world on Fatemeh Ghaderinezhad</description>
+    <image>
+      <url>https://ghaderinezhad.github.io/papermod-cover.png</url>
+      <link>https://ghaderinezhad.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ghaderinezhad.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://ghaderinezhad.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghaderinezhad.github.io/posts/hello-world/</guid>
+      <description>This is my first post!</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://ghaderinezhad.github.io/posts/post1/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghaderinezhad.github.io/posts/post1/</guid>
+      <description>This is my first post!</description>
+    </item>
+    
+  </channel>
+</rss>

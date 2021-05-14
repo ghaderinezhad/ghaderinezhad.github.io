@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PaperMod on Fatemeh Ghaderinezhad</title>
+    <link>https://ghaderinezhad.github.io/tags/papermod/</link>
+    <description>Recent content in PaperMod on Fatemeh Ghaderinezhad</description>
+    <image>
+      <url>https://ghaderinezhad.github.io/papermod-cover.png</url>
+      <link>https://ghaderinezhad.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ghaderinezhad.github.io/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs</title>
+      <link>https://ghaderinezhad.github.io/faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghaderinezhad.github.io/faq/</guid>
+      <description>Frequently Asked Questions</description>
+    </item>
+    
+  </channel>
+</rss>
