@@ -9,7 +9,7 @@
       <link>https://ghaderinezhad.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ghaderinezhad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ghaderinezhad.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQs</title>
       <link>https://ghaderinezhad.github.io/faq/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>Welcome to my website!</title>
       <link>https://ghaderinezhad.github.io/posts/post1/</link>
-      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ghaderinezhad.github.io/posts/post1/</guid>
       <description>Welcome to my website!</description>
@@ -45,7 +45,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ghaderinezhad.github.io/resume/</guid>
-      <description>Here you can my recent talk and research&amp;hellip;</description>
+      <description>Here you can see the list of my papers, talks and some of my activities.
+Publications:</description>
     </item>
     
     
